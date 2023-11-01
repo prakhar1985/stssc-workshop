@@ -1,0 +1,6 @@
+== Deep Dive into Cosign and Sigstore
+
+=== Exploring Cosign's Role in Image Security
+
+As part of the broader Sigstore project, Cosign offers a streamlined and secure way to sign container images. Its integration into our CI/CD pipeline means each image we produce is cryptographically signed, verifying its authenticity and integrity. This section of the workshop will explore how Cosign, utilizing Sigstore's transparency and trust capabilities, becomes a bedrock for ensuring that the images we deploy are the ones we've securely created and approved.
+

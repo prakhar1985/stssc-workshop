@@ -1,0 +1,6 @@
+== Understanding Tekton Chains in OpenShift Pipelines
+
+=== Enhancing Security with Tekton Chains
+
+Tekton Chains, a Kubernetes Custom Resource Definition (CRD) controller, is crucial in augmenting the supply chain security within our OpenShift Pipelines. This tool's capacity to automatically sign task runs, and its adoption of advanced attestation formats like in-toto, bring a higher degree of trust and verification to our processes. We'll delve into how Tekton Chains ensures that every aspect of our container image production, from creation to deployment, is securely recorded and stored.
+
